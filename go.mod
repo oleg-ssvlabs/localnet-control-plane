@@ -3,7 +3,7 @@ module github.com/oleg-ssvlabs/testnet
 go 1.24
 
 require (
-	github.com/docker/docker v28.2.2+incompatible
+	github.com/docker/docker v28.3.3+incompatible
 	github.com/docker/go-connections v0.6.0
 	github.com/kurtosis-tech/kurtosis/api/golang v1.10.3
 	gopkg.in/yaml.v3 v3.0.1
