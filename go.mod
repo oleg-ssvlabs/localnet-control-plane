@@ -4,14 +4,14 @@ go 1.24
 
 require (
 	github.com/docker/docker v28.2.2+incompatible
-	github.com/docker/go-connections v0.5.0
+	github.com/docker/go-connections v0.6.0
 	github.com/kurtosis-tech/kurtosis/api/golang v1.10.3
 	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
 	github.com/Masterminds/semver/v3 v3.3.1 // indirect
-	github.com/Microsoft/go-winio v0.4.14 // indirect
+	github.com/Microsoft/go-winio v0.4.21 // indirect
 	github.com/adrg/xdg v0.5.3 // indirect
 	github.com/containerd/errdefs v1.0.0 // indirect
 	github.com/containerd/errdefs/pkg v0.3.0 // indirect
